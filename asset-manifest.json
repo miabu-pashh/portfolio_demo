@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio_demo/static/css/main.c85ec421.css",
+    "main.js": "/portfolio_demo/static/js/main.4f7aa85f.js",
+    "static/js/787.2b044562.chunk.js": "/portfolio_demo/static/js/787.2b044562.chunk.js",
+    "static/media/myImage4.jpg": "/portfolio_demo/static/media/myImage4.a0ad151963bac1eba350.jpg",
+    "static/media/HealthWeb.jpg": "/portfolio_demo/static/media/HealthWeb.b815850e6fa6ecf1fdba.jpg",
+    "static/media/Baja.jpg": "/portfolio_demo/static/media/Baja.dbfcb7855cdc2b8448e7.jpg",
+    "static/media/Resume-MMP1.pdf": "/portfolio_demo/static/media/Resume-MMP1.ff640f685efc82301f5f.pdf",
+    "static/media/IPG.jpg": "/portfolio_demo/static/media/IPG.8e93f3588c29afd385b4.jpg",
+    "static/media/myImage1.jpg": "/portfolio_demo/static/media/myImage1.3674c4c74867bc6ea699.jpg",
+    "static/media/ROBOT.jpg": "/portfolio_demo/static/media/ROBOT.e46d0902cdb75b3397c2.jpg",
+    "static/media/Alzeimers dieases.jpg": "/portfolio_demo/static/media/Alzeimers dieases.f5f36045e6f61a28325e.jpg",
+    "static/media/chatbot.png": "/portfolio_demo/static/media/chatbot.6c2b3c83b880463f01cc.png",
+    "static/media/ShoppingSite.jpg": "/portfolio_demo/static/media/ShoppingSite.8a01bebb12654e2d0b05.jpg",
+    "static/media/eCommerse.jpg": "/portfolio_demo/static/media/eCommerse.cb71f00a78439a931562.jpg",
+    "index.html": "/portfolio_demo/index.html",
+    "main.c85ec421.css.map": "/portfolio_demo/static/css/main.c85ec421.css.map",
+    "main.4f7aa85f.js.map": "/portfolio_demo/static/js/main.4f7aa85f.js.map",
+    "787.2b044562.chunk.js.map": "/portfolio_demo/static/js/787.2b044562.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c85ec421.css",
+    "static/js/main.4f7aa85f.js"
+  ]
+}
