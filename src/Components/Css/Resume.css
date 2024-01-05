@@ -1,0 +1,32 @@
+
+
+.resume{
+    margin: 0;
+    height:100vh;
+    width: 100vw;
+    /* background-image: url("/public/myImage3.jpg"); */
+    background-image: url('/public/myImage1.jpg');
+    padding: 20px;
+}
+.resume h2 {
+    /* Replace 'Your Cursive Font' with your chosen cursive font name */
+    font-family: 'Lexend Zetta', sans-serif;
+        font-family: 'Spectral', serif;
+    /* font-weight: 400px; */
+    font-size: 50px;
+}
+.button1{
+    padding: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 5px solid black;
+    background-color: black;
+    color: white;
+    font-family: 'Lexend Zetta', sans-serif;
+    /* font-family: 'Spectral', serif; */ 
+}
+.button1:hover{
+    background-color: matte;
+    border: 5px solid green;
+    color: green;
+}
