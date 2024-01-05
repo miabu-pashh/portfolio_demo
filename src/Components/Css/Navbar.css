@@ -1,0 +1,50 @@
+/* styles.css */
+
+.nav {
+    /* background-color: #A9A9A9; */
+    height: 160px;
+    width: 100vw;
+    overflow: hidden;
+    background-image: url('/public/myImage1.jpg');
+    background-size: cover;
+}
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    /* padding: 0; */
+}
+
+.nav li {
+    display: inline-block;
+}
+.name h2{
+    text-align: center;
+    font-family: 'Spectral', serif;
+    /* padding: 20px; */
+    font-size: 40px;
+    
+}
+
+.links{
+    display: block;
+    text-align: center;
+}
+.nav a {
+    display: block;
+    color: black;
+    padding: 0px 20px;
+    text-decoration: none;
+    /* border-radius: 5px; */
+    font-family: 'Spectral', serif;
+    font-size: 20px;
+    transition: 1s;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}
+.nav a:hover{
+    /* background-color: black; */
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+}

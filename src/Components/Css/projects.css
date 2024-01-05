@@ -1,0 +1,113 @@
+
+.project1{
+    height: 100vh;
+    width: 100vw;
+    margin-top: 0;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+      
+}
+.project1 h3{
+    font-size: 80px;
+    color: #fff;
+    padding: 50px;
+    margin-top: 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        /* Adding a shadow to the text */
+    /* margin-bottom: 50px; */
+}
+.project1 h2{
+        display: block;
+
+        font-size: 40px;
+        /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+        color: #fff;
+        margin-bottom: 40px;
+        margin-left: 50px;
+        margin-right: 50px;
+
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9);
+    /* Adding a shadow to the text */
+}
+
+
+#p1{
+    background-image: url("/public/portfolio/HealthWeb.jpg");
+    background-size: cover;
+    position: static;
+    top: 0;
+    background-attachment: fixed;
+}
+#p1 h3{
+        font-size: 80px;
+        /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+        color:#fff;
+        margin-bottom: 40px;
+        text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+     
+}
+#p2 {
+    background-image: url("/public/portfolio/chatbot.png");
+    background-size: cover;
+    position: static;
+    top: 0;
+    background-attachment: fixed;
+}
+#p3{
+    background-image: url("/public/portfolio/eCommerse.jpg");
+    background-size: cover;
+    position: static;
+    top: 0;
+    background-attachment: fixed;
+}
+#p4 {
+    background-image: url("/public/portfolio/ShoppingSite.jpg");
+    background-size: cover;
+    position: static;
+    top: 0;
+    background-attachment: fixed;
+}
+#p5 {
+    background-image: url("/public/portfolio/ROBOT.jpg");
+    background-size: cover;
+    position: static;
+    top: 0;
+    background-attachment: fixed;
+}
+#p6 {
+    background-image: url("/public/portfolio/IPG.jpg");
+    background-size: cover;
+    position: static;
+    top: 0;
+    background-attachment: fixed;
+}
+#p7 {
+    background-image: url("/public/portfolio/Alzeimers\ dieases.jpg");
+    background-size: cover;
+    position: static;
+    top: 0;
+    background-attachment: fixed;
+}
+#p8 {
+    background-image: url("/public/portfolio/Baja.jpg");
+    background-size: cover;
+    position: static;
+    top: 0;
+    background-attachment: fixed;
+}
+/* .background-clip {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.background-clip video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+} */
